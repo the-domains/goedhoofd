@@ -1,0 +1,28 @@
+name: GoedHoofd
+favicon: null
+layout_spectrum: 0.24488831171765924
+typography_spectrum: 0.01980358874425292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7028261469677091
+  lightness: 0.6321599876973778
+  saturation: 0.5893429014831781
+  rhythmicContrast: 0.18991325050592422
+purpose: []
